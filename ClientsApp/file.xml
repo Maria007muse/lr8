@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<persons>
+    <person>
+        <email>эмейл</email>
+        <firstName>Hans</firstName>
+        <lastName>Muster</lastName>
+        <phone>1234</phone>
+        <status>статус клиента</status>
+        <type>тип клиента</type>
+    </person>
+    <person>
+        <email>эмейл</email>
+        <firstName>Ruth</firstName>
+        <lastName>Mueller</lastName>
+        <phone>1234</phone>
+        <status>статус клиента</status>
+        <type>тип клиента</type>
+    </person>
+    <person>
+        <email>эмейл</email>
+        <firstName>Heinz</firstName>
+        <lastName>Kurz</lastName>
+        <phone>1234</phone>
+        <status>статус клиента</status>
+        <type>тип клиента</type>
+    </person>
+    <person>
+        <email>эмейл</email>
+        <firstName>Cornelia</firstName>
+        <lastName>Meier</lastName>
+        <phone>1234</phone>
+        <status>статус клиента</status>
+        <type>тип клиента</type>
+    </person>
+    <person>
+        <email>эмейл</email>
+        <firstName>Werner</firstName>
+        <lastName>Meyer</lastName>
+        <phone>1234</phone>
+        <status>статус клиента</status>
+        <type>тип клиента</type>
+    </person>
+    <person>
+        <email>эмейл</email>
+        <firstName>Lydia</firstName>
+        <lastName>Kunz</lastName>
+        <phone>1234</phone>
+        <status>статус клиента</status>
+        <type>тип клиента</type>
+    </person>
+    <person>
+        <email>эмейл</email>
+        <firstName>Anna</firstName>
+        <lastName>Best</lastName>
+        <phone>1234</phone>
+        <status>статус клиента</status>
+        <type>тип клиента</type>
+    </person>
+    <person>
+        <email>эмейл</email>
+        <firstName>Stefan</firstName>
+        <lastName>Meier</lastName>
+        <phone>1234</phone>
+        <status>статус клиента</status>
+        <type>тип клиента</type>
+    </person>
+    <person>
+        <email>эмейл</email>
+        <firstName>Martin</firstName>
+        <lastName>Mueller</lastName>
+        <phone>1234</phone>
+        <status>статус клиента</status>
+        <type>тип клиента</type>
+    </person>
+    <person>
+        <email>эмейл</email>
+        <firstName>fgdfg</firstName>
+        <lastName>gdfgd</lastName>
+        <phone>1234</phone>
+        <status>статус клиента</status>
+        <type>тип клиента</type>
+    </person>
+</persons>

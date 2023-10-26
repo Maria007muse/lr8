@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="ClientsApp.jnlp">
+  <information>
+    <title>ClientsApp</title>
+    <vendor>makery.ch</vendor>
+    <description>Sample JavaFX 2.0 application.</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="ClientsApp.jar" size="15116" download="eager" />
+    <jar href="libs/FastInfoset.jar" size="311876" download="eager" />
+    <jar href="libs/codemodel.jar" size="160125" download="eager" />
+    <jar href="libs/dtd-parser.jar" size="59948" download="eager" />
+    <jar href="libs/istack-commons-runtime.jar" size="25523" download="eager" />
+    <jar href="libs/istack-commons-tools.jar" size="27596" download="eager" />
+    <jar href="libs/javafx-swt.jar" size="36882" download="eager" />
+    <jar href="libs/javafx.base.jar" size="754161" download="eager" />
+    <jar href="libs/javafx.controls.jar" size="2585101" download="eager" />
+    <jar href="libs/javafx.fxml.jar" size="130174" download="eager" />
+    <jar href="libs/javafx.graphics.jar" size="4281184" download="eager" />
+    <jar href="libs/javafx.media.jar" size="277256" download="eager" />
+    <jar href="libs/javafx.swing.jar" size="89702" download="eager" />
+    <jar href="libs/javafx.web.jar" size="727733" download="eager" />
+    <jar href="libs/javax.activation-api.jar" size="56674" download="eager" />
+    <jar href="libs/jaxb-api.jar" size="128076" download="eager" />
+    <jar href="libs/jaxb-jxc.jar" size="132058" download="eager" />
+    <jar href="libs/jaxb-runtime.jar" size="1093432" download="eager" />
+    <jar href="libs/jaxb-xjc.jar" size="986956" download="eager" />
+    <jar href="libs/relaxng-datatype.jar" size="15601" download="eager" />
+    <jar href="libs/rngom.jar" size="317643" download="eager" />
+    <jar href="libs/stax-ex.jar" size="36073" download="eager" />
+    <jar href="libs/txw2.jar" size="70288" download="eager" />
+    <jar href="libs/xsom.jar" size="426721" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="0" height="0" main-class="ch.makery.address.MainApp"  name="ClientsApp" />
+  <update check="background"/>
+</jnlp>
